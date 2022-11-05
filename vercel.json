@@ -1,0 +1,1 @@
+{"version":2,"routes":[{"src":"/admin/(.*)","dest":"https://hexo-mrzefr-code.408853656.workers.dev/$1"}]}
